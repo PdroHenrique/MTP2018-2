@@ -46,6 +46,5 @@ int main()
 	{
 		printf("\nNao e");
 	}
-	getch();
 	return 0;
 }
